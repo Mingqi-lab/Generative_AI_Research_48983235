@@ -1,6 +1,6 @@
 # Project Logbook
 
-2025-09-17 (A) Setup
+2025.9.17
 - Created repository and base folder structure.
 - Added README and initial logbook.
 - Team: mingqi zhang (reviewer), zhengzhengmao (dev), yuhao (dev).
