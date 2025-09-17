@@ -1,4 +1,4 @@
-# Generative_AI_Research_SID
+# Generative_AI_Research_48983235
 
 ## Project Overview
 This repository contains all research data, scripts, and documents related to the Generative AI project.  
