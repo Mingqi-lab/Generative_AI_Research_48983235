@@ -1,15 +1,19 @@
 # Project Logbook
 
-？？？？？？
+
+
+2025.9.17xyz
+
 - Created repository and base folder structure.
 - Added README and initial logbook.
-- Team: A (reviewer), B (dev), C (dev).
+- Team: mingqi zhang (reviewer), zhengzhengmao (dev), yuhao (dev).
 
 Planned next steps:
-- B: add preprocessing script skeleton.
-- C: add analysis script skeleton.
+- zhengzheng mao: add preprocessing script skeleton.
+- yuhao: add analysis script skeleton.
 
 Notes:
 - Use feature branches; PR required before merge.
 
 ovo zhengzhengmao
+this is yuhao
